@@ -1,0 +1,69 @@
+body{
+	background: white;
+}
+.btn {
+    border: white;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+.signin {
+    border: white;
+    color: white;
+  }
+h3 {
+	color: black;
+	font-size: 24px;
+	font-family: Arial;
+}
+.tester{
+  width: 100px
+}
+
+.botones{
+  width: 50px
+}
+.container{
+	padding: 50px;
+}
+.container h3 {
+  color: black;
+  font-size: 25px;
+  font-family: 'Titillium Web', sans-serif;	
+}
+.container p {
+	color: black;
+	font-size: 15px;
+	font-family: 'Krub', sans-serif;
+}
+#banner{
+  text-align: center;
+  background-image: url(https://di-uploads-pod2.dealerinspire.com/capitalregionhondadealers/uploads/2018/05/2018-Honda-Accord-Driving-Through-City-5318.jpg);
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 150px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#banner p {
+  color: white;
+  font-size: 30px;
+  font-family: 'Krub', sans-serif;
+}
+#footer a {
+  color: white;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+#footer{
+  padding: 30px;
+  background: rgb(12, 121, 173)
+}	
